@@ -1,0 +1,15 @@
+# ninja log v5
+0	557	7227360465138877	CMakeFiles/StaticMemAlloc.dir/main.cpp.obj	71faca6f46aac177
+559	727	7227360466811517	StaticMemAlloc.exe	15d92ef5538461ef
+2	532	7227360571215470	CMakeFiles/StaticMemAlloc.dir/main.cpp.obj	71faca6f46aac177
+532	622	7227360572093594	StaticMemAlloc.exe	15d92ef5538461ef
+2	700	7240204485484153	CMakeFiles/StaticMemAlloc.dir/main.cpp.obj	71faca6f46aac177
+701	927	7240204487706009	StaticMemAlloc.exe	15d92ef5538461ef
+3	546	7240204633422078	CMakeFiles/StaticMemAlloc.dir/main.cpp.obj	71faca6f46aac177
+546	635	7240204634286469	StaticMemAlloc.exe	15d92ef5538461ef
+3	542	7240206355544581	CMakeFiles/StaticMemAlloc.dir/main.cpp.obj	71faca6f46aac177
+542	638	7240206356487553	StaticMemAlloc.exe	15d92ef5538461ef
+2	543	7240210210539116	CMakeFiles/StaticMemAlloc.dir/main.cpp.obj	71faca6f46aac177
+543	636	7240210211440471	StaticMemAlloc.exe	15d92ef5538461ef
+3	686	7241797763893394	CMakeFiles/StaticMemAlloc.dir/main.cpp.obj	71faca6f46aac177
+687	805	7241797765060357	StaticMemAlloc.exe	15d92ef5538461ef

@@ -1,0 +1,3 @@
+D:/Coding/SCSProject/C/MemAllocStatic/cmake-build-debug/CMakeFiles/MemAllocStatic.dir
+D:/Coding/SCSProject/C/MemAllocStatic/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/SCSProject/C/MemAllocStatic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

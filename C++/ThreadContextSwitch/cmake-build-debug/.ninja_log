@@ -1,0 +1,7 @@
+# ninja log v5
+0	790	7227361396861142	CMakeFiles/ThreadContextSwitch.dir/main.cpp.obj	1e0ecb1b30a987d3
+793	899	7227361397928216	ThreadContextSwitch.exe	c997838309c8129b
+3	848	7240215835190965	CMakeFiles/ThreadContextSwitch.dir/main.cpp.obj	1e0ecb1b30a987d3
+848	944	7240215836118484	ThreadContextSwitch.exe	c997838309c8129b
+3	872	7241821507748901	CMakeFiles/ThreadContextSwitch.dir/main.cpp.obj	1e0ecb1b30a987d3
+873	979	7241821508804974	ThreadContextSwitch.exe	c997838309c8129b

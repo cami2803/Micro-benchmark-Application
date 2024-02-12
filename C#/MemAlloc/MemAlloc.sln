@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemAlloc", "MemAlloc\MemAlloc.csproj", "{A215BA80-D95D-4211-B30D-B9CBBE9DF01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A215BA80-D95D-4211-B30D-B9CBBE9DF01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A215BA80-D95D-4211-B30D-B9CBBE9DF01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A215BA80-D95D-4211-B30D-B9CBBE9DF01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A215BA80-D95D-4211-B30D-B9CBBE9DF01D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C29E53E-6626-44B2-A20D-E8A403B22DD0}
+	EndGlobalSection
+EndGlobal

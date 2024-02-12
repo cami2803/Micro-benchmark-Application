@@ -1,0 +1,3 @@
+D:/Coding/SCSProject/C++/Threading/cmake-build-debug/CMakeFiles/Threading.dir
+D:/Coding/SCSProject/C++/Threading/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/SCSProject/C++/Threading/cmake-build-debug/CMakeFiles/rebuild_cache.dir

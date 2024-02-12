@@ -1,0 +1,3 @@
+D:/Coding/SCSProject/C++/StaticMemAlloc/cmake-build-debug/CMakeFiles/StaticMemAlloc.dir
+D:/Coding/SCSProject/C++/StaticMemAlloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/SCSProject/C++/StaticMemAlloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

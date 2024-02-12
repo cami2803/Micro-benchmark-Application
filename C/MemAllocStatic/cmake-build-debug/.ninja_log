@@ -1,0 +1,15 @@
+# ninja log v5
+1	63	7227135049087375	CMakeFiles/MemAllocStatic.dir/main.c.obj	14e8e9d3ff9e4733
+63	151	7227135049945079	MemAllocStatic.exe	7bbdc8adc229f39d
+1	67	7240257039316657	CMakeFiles/MemAllocStatic.dir/main.c.obj	14e8e9d3ff9e4733
+67	154	7240257040164446	MemAllocStatic.exe	7bbdc8adc229f39d
+1	66	7240257381400603	CMakeFiles/MemAllocStatic.dir/main.c.obj	14e8e9d3ff9e4733
+67	150	7240257382208154	MemAllocStatic.exe	7bbdc8adc229f39d
+2	66	7240257926089160	CMakeFiles/MemAllocStatic.dir/main.c.obj	14e8e9d3ff9e4733
+66	153	7240257926927209	MemAllocStatic.exe	7bbdc8adc229f39d
+2	72	7240258017306116	CMakeFiles/MemAllocStatic.dir/main.c.obj	14e8e9d3ff9e4733
+72	161	7240258018173794	MemAllocStatic.exe	7bbdc8adc229f39d
+2	65	7240258505713063	CMakeFiles/MemAllocStatic.dir/main.c.obj	14e8e9d3ff9e4733
+65	154	7240258506580749	MemAllocStatic.exe	7bbdc8adc229f39d
+2	218	7241793783885010	CMakeFiles/MemAllocStatic.dir/main.c.obj	14e8e9d3ff9e4733
+218	441	7241793786063697	MemAllocStatic.exe	7bbdc8adc229f39d

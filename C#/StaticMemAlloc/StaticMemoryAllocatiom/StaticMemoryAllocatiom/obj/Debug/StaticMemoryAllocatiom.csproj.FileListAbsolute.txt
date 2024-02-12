@@ -1,0 +1,7 @@
+D:\Coding\SCSProject\C#\StaticMemAlloc\StaticMemoryAllocatiom\StaticMemoryAllocatiom\bin\Debug\StaticMemoryAllocatiom.exe.config
+D:\Coding\SCSProject\C#\StaticMemAlloc\StaticMemoryAllocatiom\StaticMemoryAllocatiom\bin\Debug\StaticMemoryAllocatiom.exe
+D:\Coding\SCSProject\C#\StaticMemAlloc\StaticMemoryAllocatiom\StaticMemoryAllocatiom\bin\Debug\StaticMemoryAllocatiom.pdb
+D:\Coding\SCSProject\C#\StaticMemAlloc\StaticMemoryAllocatiom\StaticMemoryAllocatiom\obj\Debug\StaticMemoryAllocatiom.csproj.AssemblyReference.cache
+D:\Coding\SCSProject\C#\StaticMemAlloc\StaticMemoryAllocatiom\StaticMemoryAllocatiom\obj\Debug\StaticMemoryAllocatiom.csproj.CoreCompileInputs.cache
+D:\Coding\SCSProject\C#\StaticMemAlloc\StaticMemoryAllocatiom\StaticMemoryAllocatiom\obj\Debug\StaticMemoryAllocatiom.exe
+D:\Coding\SCSProject\C#\StaticMemAlloc\StaticMemoryAllocatiom\StaticMemoryAllocatiom\obj\Debug\StaticMemoryAllocatiom.pdb

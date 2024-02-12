@@ -1,0 +1,3 @@
+D:/Coding/SCSProject/C++/ThreadContextSwitch/cmake-build-debug/CMakeFiles/ThreadContextSwitch.dir
+D:/Coding/SCSProject/C++/ThreadContextSwitch/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/SCSProject/C++/ThreadContextSwitch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
